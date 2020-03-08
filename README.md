@@ -61,7 +61,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 [![Build Status](https://travis-ci.org/dorsplitt/se_hello_printer_app.svg?branch=master)](https://travis-ci.org/dorsplitt/se_hello_printer_app)
 
 - Badge z StatusCake
-  [!(https://app.statuscake.com/button/index.php?Track=X3ZjfGOfgz&Days=1&Design=1)]
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=X3ZjfGOfgz&Days=1&Design=1" /></a>
 
 # Pomocnicze
 
