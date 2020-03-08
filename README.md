@@ -10,11 +10,9 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Rozpoczynając pracę z projektem (wykorzystując virtualenv). Hermetyczne środowisko dla pojedynczej aplikacji w python-ie:
 
  nowa_funkcjonalnosc
-  ```
 
-=======
-  ...
- nowa_funkcjonalnosc
+  ```
+  nowa_funkcjonalnosc
   # ubuntu, add to ~/.bashrc
   $ source /usr/local/bin/virtualenvwrapper.sh
 
@@ -58,8 +56,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
   ```
-  # miejsce na twoje notatki
-
+  # dodanie pliku konfiguracyjnego .travis.yml
   ```
 
 # Pomocnicze
