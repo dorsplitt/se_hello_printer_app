@@ -58,10 +58,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
 - Badge z TravisCI
-  [https://travis-ci.org/dorsplitt/se_hello_printer_app.svg?branch=master]
+  [!(https://travis-ci.org/dorsplitt/se_hello_printer_app.svg?branch=master)]
 
 - Badge z StatusCake
-  [https://app.statuscake.com/button/index.php?Track=X3ZjfGOfgz&Days=1&Design=1]
+  [!(https://app.statuscake.com/button/index.php?Track=X3ZjfGOfgz&Days=1&Design=1)]
 
 # Pomocnicze
 
